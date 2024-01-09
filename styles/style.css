@@ -31,17 +31,20 @@ margin-top: 90px;
     width: 1320px;
     justify-content: center;
     background-position: center;
-    margin: 90px 200px 10px 90px;
+    margin: 90px 100px 10px 90px;
   
 }
 /* main-sectiom */
+.many-section{
+    justify-content: center;
+}
 .off{
 color: #F00;
 font-family: 'Inter', sans-serif;
 text-align: center;
 font-size: 88px;
 font-weight: 700;
-margin: 10px auto;
+margin: 10px 20px;
 }
 .holiday{
     color: #F00;
@@ -49,17 +52,17 @@ margin: 10px auto;
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
-    margin: 5px;
+    margin: 2px 2px;
 }
 
 
 .catagory{
 color: #070211;
 text-align: center;
-font-family: 'Inter', sans-serif;;
+font-family: 'Inter', sans-serif;
 font-size: 48px;
 font-weight: 700;
-margin: 10px 0;
+margin: 5px 5px;
 }
 
 .first-section{
@@ -67,10 +70,132 @@ margin: 10px 0;
     justify-content: center;
     margin: 150px 200px 10px 200px;
     text-align: center;
-    box-sizing: border-box;
-  
-    
+    box-sizing: border-box; 
 }
 .image{
-
+ 
 }
+.second-section{
+    background-image: url('../resources/Vectorrr.png');
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    justify-content: center;
+    background-position: center;
+    margin: 90px 200px 10px 90px; 
+}
+.welcome{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    width: 642px;
+    height: 176px;
+    border: 30px;
+    margin-bottom: 10px;
+    padding: 5px 50px ;
+}
+.dolo{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    width: 697px;
+    height: 60px;
+    margin-top: 0 ;
+    padding: 20px;
+}
+.btn-black{
+    color: rgb(252, 252, 252);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+     margin:  5px 20px;
+     background-color: #070211;
+}
+.Third-section{
+    background-color: rgb(230, 215, 215);
+    margin: 90px 200px 30px 90px;
+    padding: 100px 380px 214px ;
+    font-family: 'Inter', sans-serif;
+   
+    
+}
+.red{
+    color: #F00;
+}
+.visit{
+    justify-content: center;
+    text-align: center;
+}
+
+.btn-red{
+background-color: #F00;
+color: #FFF;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+border-radius: 8px;
+display: inline-flex;
+padding: 15px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.fourth-section{
+background: #FFF; 
+ width:1320 px;
+height: 320px;
+margin: 90px 120px;
+display: flex;
+}
+.offer{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+}
+.soon{
+color: #070211;
+font-size: 48px;
+font-weight: 900;
+margin: 5px;
+}
+.four-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 393px;
+    height: 128px;
+}
+.picture-ep{
+background-image: url('../resources/Ellipse\ 1.png');
+background-repeat: no-repeat;
+width: 364.844px;
+height: 364.844px;
+border-radius: 463px;
+border: 15px solid #F00;
+padding: 0px 30px;
+}
+.offer-one{
+ color: #F00;
+font-family: 'Inter', sans-serif;
+font-size: 48px;
+font-weight: 700;
+margin: 2px;
+}
+.soon-one{
+color: rgba(7, 2, 17, 0.60);
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 400;
+margin: 2px;
+}
+.small-year{
+    width: 140px;
+height: 140px;
+}
+
